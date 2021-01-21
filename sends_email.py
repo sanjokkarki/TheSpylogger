@@ -20,7 +20,7 @@ import smtplib, ssl
 def sendEmail(message):
 	smtp_server = "smtp.gmail.com"
 	port = 587 
-    #####################The Email with password is secured and is of no use, don't try to act smart#####################
+    #####################The Email with password is secured and is of no use, CAUTION!! Don't try to act smart#####################
 	sender_email = "Blackhat_test@protonmail.ch"
 	password = "test@123"
     ###########################DON'T ACT SMART#############################################
