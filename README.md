@@ -10,10 +10,10 @@ TheSpylogger is simple and powerful Python keylogger that is able to log keystro
 
 # Installation   
 
-1> Instal: pip install pynput
+- Instal: pip install pynput
 
-2> Clone it: git clone https://github.com/sanjokkarki/TheSpylogger.git     
+- Clone it: git clone https://github.com/sanjokkarki/TheSpylogger.git     
 
-3> Run it: python TheSpylogger.py  
+- Run it: python TheSpylogger.py  
 
 You can also convert TheSpylogger to EXE using PyInstaller or any similar tool.
