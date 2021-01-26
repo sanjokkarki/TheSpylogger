@@ -13,8 +13,12 @@
                                                        888                 
                                                       d88P                 
                                                     888P"                  
+                                                    
+                                                    
 """
 #Copyright @TheSanjok
+
+
 import pygame
 import sys
 import smtplib
