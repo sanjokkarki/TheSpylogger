@@ -15,6 +15,8 @@
                                                     888P"                  
 """
 #Copyright @TheSanjok
+
+
 import smtplib, ssl
 
 def sendEmail(message):
