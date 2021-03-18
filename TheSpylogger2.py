@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*
 
 """
 88888888888888              .d8888b.                   d8b        888      
